@@ -1,0 +1,17 @@
+[{
+    "Mythical Items": {
+      "Meliodas-Sacred-Treasure": {
+        "Cost": 3000
+        "Description": "Multiplies all full counters by 10",
+        "Code": 10
+      },
+      {
+        "Ban-Sacred-Treasure": {
+          "Cost": 3000
+          "Description": "Regeneration Increases by 50%",
+          "Code": null
+        }
+      }
+
+
+]}

@@ -1,0 +1,136 @@
+[
+  {
+    "Gowther": {
+      "Type": "Sage",
+      "AB": "Doll",
+      "Image link": "https://cdn.discordapp.com/attachments/618573859024535585/643286280926396478/latest.png",
+      "HP": 34,
+      "CC": 1,
+      "CC DEF": 1,
+      "FR": 180,
+      "FR DEF": 160,
+      "MGC": 100,
+      "SPD": 160,
+      "Total Power": 636,
+      "PR": "Starter"
+    }
+  },
+
+  {
+    "Sakura": {
+      "Type": ["Ninja", "Healer"],
+      "AB": "Healing Anger",
+      "Image link": "https://cdn.discordapp.com/attachments/618573859024535585/643282337173602304/naruto_sakura__part_i.png",
+      "HP": 120,
+      "CC": 85,
+      "CC DEF": 60,
+      "FR": 153,
+      "FR DEF": 120,
+      "MGC": 1,
+      "SPD": 97,
+      "Total Power": 636,
+      "PR": "Starter"
+    }
+  },
+
+  {
+    "Ash": {
+      "Type": "Human",
+      "AB": "Battle Bond",
+      "Image link": "https://cdn.discordapp.com/attachments/618573859024535585/643286615522803724/220px-AshXYanime.png",
+      "HP": 100,
+      "CC": 200,
+      "CC DEF": 1,
+      "FR": 100,
+      "FR DEF": 133,
+      "MGC": 2,
+      "SPD": 100,
+      "Total Power": 636,
+      "PR": "Starter"
+    }
+  },
+
+  {
+    "Meliodas": {
+      "Type": "Demon",
+      "AB": "Full Counter",
+      "Image link": "https://vignette.wikia.nocookie.net/nanatsu-no-taizai/images/e/e1/Meliodas_anime_full_appearance_2.png/revision/latest?cb=20140913055357",
+      "HP": 100,
+      "CC": 200,
+      "CC DEF": 150,
+      "FR": 1,
+      "FR DEF": 110,
+      "MGC": 100,
+      "SPD": 190,
+      "Total Power": 851,
+      "PR": "Legendary"
+    }
+  },
+
+  {
+    "Kirito":{
+      "Type": "SwordsMen",
+      "AB": "Dual Swords",
+      "Image link": "https://cdn.discordapp.com/attachments/618573859024535585/643285125437718528/986400_sword-art-online-kirito-png.png",
+      "HP": 120,
+      "CC": 260,
+      "CC DEF": 150,
+      "FR": 1,
+      "FR DEF": 30,
+      "MGC": 40,
+      "SPD": 250,
+      "Total Power": 851,
+      "PR": "Legendary"
+    }
+  },
+
+  {
+    "Ban":{
+      "Type": "Human",
+      "AB": "Regeneration",
+      "Image link": "https://cdn.discordapp.com/attachments/618573859024535585/643285699168305190/58f35c05a4fa116215a923ad.png",
+      "HP": 100,
+      "CC": 300,
+      "CC DEF": 150,
+      "FR": 1,
+      "FR DEF": 180,
+      "MGC": 1,
+      "SPD": 150,
+      "Total Power": 881,
+      "PR": "Legendary"
+    }
+  },
+
+  {
+    "02":{
+      "Type": ["Demon", "Human"],
+      "AB": "Solo Franxx",
+      "Image link": "https://cdn.discordapp.com/attachments/618573859024535585/643283559217496064/312-3121825_view-samegoogleiqdbsaucenao-zero-two-looking-at-blaster-master.png",
+      "HP": 1,
+      "CC": 300,
+      "CC DEF": 1,
+      "FR": 225,
+      "FR DEF": 1,
+      "MGC": 1,
+      "SPD": 315,
+      "Total Power": 874,
+      "PR": "Legendary"
+    }
+  },
+
+  {
+    "Yui": {
+      "Type": "Angel",
+      "AB": ["System Admin", "Healer", "NPC"],
+      "Image link": null,
+      "HP": 130,
+      "CC": 1,
+      "CC DEF": 130,
+      "FR": 130,
+      "MGC": 320,
+      "SPD": 1,
+      "Total Power": 712,
+      "PR": "Mega"
+    }
+  }
+]

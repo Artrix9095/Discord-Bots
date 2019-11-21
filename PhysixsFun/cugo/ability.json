@@ -1,0 +1,56 @@
+[
+  {
+    "Healing": {
+      "Description": "A Ability that allows the Weebmon to heal itself, and anyone on their party at any time. This ability depends on speed to determine how long It takes to heal. for each 100 speed thats -1 turns on the cooldown, the defualt cooldown is 3 turns.",
+      "Simple Description": "Allows user to heal itself, and other Weebmons in it's party.",
+      "Rating 1-10": 7,
+      "Status": "Not Coded",
+      "Code": 10
+    }
+  },
+
+  {
+    "Regeneration": {
+      "Description": "User heals 20% of their health every turn, If fox hunt was used at any time during that arena match, that will increase to 50%.",
+      "Simple Description": "User heals 20% of their health every turn.",
+      "Rating 1-10": 10,
+      "Status": "Coded",
+      "Code": 20
+    }
+  },
+
+  {
+    "Full Counter": {
+      "Description": "Reflects all Magic & Far Range attacks with 3x the power back to the offender (Far range is 2x)",
+      "Simple Description": "Reflects all Non-Physical attacks with 2x the power",
+      "Rating 1-10": 10,
+      "Status": "Coded",
+      "Code": {
+        "1": 2,
+        "2": 3
+      }
+    }
+  },
+
+  {
+    "System Admin": {
+      "Description": "If A Admin move was used this turn or by this weebmon, all admin types and moves have their highest stat multiplied by 2, System admin allows the user to disable any specific move or ability, this will apply to their own party and themself too.",
+      "Simple Description": "Allows user to disable certain abilities and moves.",
+      "Rating 1-10": 8,
+      "Status": "Not Coded",
+      "Code": null
+    }
+  },
+
+  {
+    "Dual Swords": {
+      "Description": "Doubles attack against Other SwordsMen, Against normal weebmons its attack is multiplied by 1.5",
+      "Simple Description": "Increases attack by 1.5",
+      "Rating 1-10": "Coded",
+      "Code": {
+        "1": 2,
+        "2": 1.5
+      }
+    }
+  }
+]
