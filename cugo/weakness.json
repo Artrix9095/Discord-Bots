@@ -1,0 +1,43 @@
+[
+  {
+    "Sage": {
+      "Weakness": ["Demon", "Ninja"]
+    }
+  },
+
+  {
+    "Demon": {
+      "Weakness": ["Angel", "Ninja"]
+    }
+  },
+
+  {
+    "Angel": {
+      "Weakness": ["SwordsMen", "Sage"]
+    }
+  },
+
+  {
+    "SwordsMen": {
+      "Weakness": ["Sage", "SwordsMen"]
+    }
+  },
+
+  {
+    "Human": {
+      "Weakness": ["SwordsMen", "Demon", "Ninja"]
+    }
+  },
+
+  {
+    "Ninja": {
+      "Weakness": ["Angel","SwordsMen"]
+    }
+  },
+
+  {
+    "Healer": {
+      "Weakness": ["Human", "SwordsMen"]
+    }
+  }
+]
