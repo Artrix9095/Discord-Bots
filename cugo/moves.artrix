@@ -1,0 +1,60 @@
+[
+  {
+    "Sword Smash": {
+      "ID": 0,
+      "Name": "Sword Smash",
+      "type": "CC",
+      "DMG": 120,
+      "Com": [
+        "3",
+        "7",
+        "14",
+        "19",
+        "20"
+      ]
+    },
+
+    "Blow Up Fist": {
+      "ID": 7,
+      "Name": "Blow Up Fist",
+      "type": "CC",
+      "DMG": 150,
+      "Com": [
+        "15",
+        "16",
+        "18"
+      ]
+    },
+    "Multi Shuriken": {
+      "ID": 2,
+      "Name": "Multi Shuriken",
+      "type": "FR",
+      "DMG": 35,
+      "Com": [
+        "5",
+        "10",
+        "11",
+        "12",
+        "13",
+        "17"
+      ]
+    },
+    "Sin Blade": {
+      "ID": 0,
+      "Name": "Sin Blade",
+      "type": "CC",
+      "DMG": 130,
+      "Com": [
+        "1",
+        "4",
+        "8",
+        "9"
+      ]
+    }
+  },
+  [
+    "7 = Cooldown 1 turn cooldown",
+    "0 = No Effect",
+    "2 = Hit more than one time, random 3-7"
+  ]
+]
